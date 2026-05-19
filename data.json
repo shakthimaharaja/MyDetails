@@ -1,385 +1,379 @@
 ﻿{
-    "$schema":  "mahi-bios-data v1",
-    "profile":  {
-                    "name":  "MAHARAJA SIVASUBRAMANIAN",
-                    "shortName":  "MAHARAJA",
-                    "alias":  "shakthimaharaja",
-                    "title":  "AI/ML ENGINEER Â· FULL-STACK Â· DATA + SECURITY",
-                    "tagline":  "Builds with AI. Builds without AI. Either way â€” it ships.",
-                    "location":  "Plano, TX 75024",
-                    "status":  "OPEN TO FULL-TIME ROLES",
-                    "role":  "AI/ML ENGINEER @ TOYOTA",
-                    "subjectId":  "AI/ML ENGINEER @ TOYOTA",
-                    "classification":  "STAFF-LEVEL Â· FULL-STACK AI",
-                    "dob":  "NDA",
-                    "height":  "5\u002710\"",
-                    "build":  "ATHLETIC",
-                    "lastSeen":  "PLANO, TX METROPOLITAN AREA",
-                    "threatLevel":  "NONE â€” SHIP-MODE"
-                },
-    "details":  {
-                    "email":  "maharajasiva.1210@gmail.com",
-                    "github":  "github.com/shakthimaharaja",
-                    "githubUser":  "shakthimaharaja",
-                    "githubUrl":  "https://github.com/shakthimaharaja",
-                    "linkedin":  "linkedin.com/in/maharajasiva",
-                    "linkedinUrl":  "https://www.linkedin.com/in/maharajasiva/",
-                    "location":  "Plano, TX 75024 Â· open to relocate",
-                    "authorization":  "US â€” authorized to work",
-                    "years":  "6+",
-                    "domains":  "Automotive Â· FinTech Â· Enterprise SaaS Â· Cybersecurity Â· Job-Tech",
-                    "seeking":  "Full-time: AI/ML Engineer Â· LLM/Agentic Systems Â· Senior ML / Full-Stack AI",
-                    "side":  "MatchingDB Â· this portfolio webapp â€” personal projects, built for curiosity"
-                },
-    "summary":  [
-                    "AI/ML Engineer who ships â€” full-stack, ML, data eng, and security in one stack.",
-                    "Builds production agentic LLM systems and classical ML pipelines end-to-end, from scratch.",
-                    "Models in prod: GPT-4o Â· Claude 3/3.5 Â· Gemini 1.5 Pro Â· LLaMA 3 Â· Mistral Â· embeddings.",
-                    "Stack: React/Next.js, FastAPI/Node, PySpark/Airflow, AWS/GCP, K8s, OWASP-grade hardening.",
-                    "Philosophy: invent without AI when needed, accelerate 10x with AI when possible â€” either way, production-grade."
-                ],
-    "skillGroups":  [
-                        {
-                            "label":  "AI / ML / LLM",
-                            "items":  [
-                                          "ML",
-                                          "Deep Learning",
-                                          "NLP",
-                                          "CV",
-                                          "LLMs",
-                                          "GenAI",
-                                          "Transformers",
-                                          "RAG",
-                                          "SFT/RLHF/DPO",
-                                          "Embeddings",
-                                          "Agentic AI"
-                                      ]
-                        },
-                        {
-                            "label":  "LLM Models",
-                            "items":  [
-                                          "GPT-4o",
-                                          "GPT-4 Turbo",
-                                          "Claude 3 Opus",
-                                          "Claude 3.5 Sonnet",
-                                          "Gemini 1.5 Pro",
-                                          "LLaMA 3 (8B/70B)",
-                                          "Mistral",
-                                          "Mixtral",
-                                          "Phi-3",
-                                          "Qwen2"
-                                      ]
-                        },
-                        {
-                            "label":  "ML Models",
-                            "items":  [
-                                          "XGBoost",
-                                          "LightGBM",
-                                          "Random Forest",
-                                          "GBMs",
-                                          "BERT/RoBERTa",
-                                          "T5",
-                                          "ResNet",
-                                          "YOLO",
-                                          "LSTM",
-                                          "Isolation Forest"
-                                      ]
-                        },
-                        {
-                            "label":  "Frameworks",
-                            "items":  [
-                                          "PyTorch",
-                                          "TensorFlow",
-                                          "JAX",
-                                          "Scikit-learn",
-                                          "HF Transformers",
-                                          "LangChain",
-                                          "LangGraph",
-                                          "LlamaIndex",
-                                          "DSPy",
-                                          "vLLM"
-                                      ]
-                        },
-                        {
-                            "label":  "Retrieval",
-                            "items":  [
-                                          "FAISS",
-                                          "Pinecone",
-                                          "Weaviate",
-                                          "pgvector",
-                                          "BM25 + Dense Hybrid",
-                                          "Cross-encoders",
-                                          "Re-ranking",
-                                          "Graph-RAG"
-                                      ]
-                        },
-                        {
-                            "label":  "Full-Stack",
-                            "items":  [
-                                          "React",
-                                          "Next.js",
-                                          "TypeScript",
-                                          "Tailwind",
-                                          "Vite",
-                                          "Redux",
-                                          "FastAPI",
-                                          "Flask",
-                                          "Node.js",
-                                          "Express",
-                                          "GraphQL",
-                                          "REST"
-                                      ]
-                        },
-                        {
-                            "label":  "Data Engineering",
-                            "items":  [
-                                          "PySpark",
-                                          "Spark SQL",
-                                          "Airflow",
-                                          "Kafka",
-                                          "dbt",
-                                          "Snowflake",
-                                          "BigQuery",
-                                          "AWS EMR",
-                                          "Delta Lake",
-                                          "ETL/ELT"
-                                      ]
-                        },
-                        {
-                            "label":  "Databases",
-                            "items":  [
-                                          "PostgreSQL",
-                                          "MySQL",
-                                          "MongoDB",
-                                          "Redis",
-                                          "DynamoDB",
-                                          "Elasticsearch",
-                                          "Neo4j"
-                                      ]
-                        },
-                        {
-                            "label":  "Cloud / MLOps",
-                            "items":  [
-                                          "AWS (EKS/SageMaker/Lambda/S3)",
-                                          "GCP (Vertex/GKE)",
-                                          "Azure",
-                                          "Docker",
-                                          "Kubernetes",
-                                          "Helm",
-                                          "Terraform",
-                                          "MLflow",
-                                          "Kubeflow",
-                                          "CI/CD"
-                                      ]
-                        },
-                        {
-                            "label":  "Cybersecurity",
-                            "items":  [
-                                          "OWASP Top 10",
-                                          "Threat Modeling",
-                                          "SAST/DAST",
-                                          "Burp Suite",
-                                          "Nmap",
-                                          "Wireshark",
-                                          "JWT/OAuth2",
-                                          "Zero-Trust",
-                                          "Prompt Injection Defense",
-                                          "LLM Red-Teaming"
-                                      ]
-                        },
-                        {
-                            "label":  "Languages",
-                            "items":  [
-                                          "Python",
-                                          "TypeScript",
-                                          "JavaScript",
-                                          "Java",
-                                          "C++",
-                                          "Go",
-                                          "SQL",
-                                          "Bash",
-                                          "Rust (learning)"
-                                      ]
-                        },
-                        {
-                            "label":  "Monitoring",
-                            "items":  [
-                                          "Prometheus",
-                                          "Grafana",
-                                          "ELK",
-                                          "Datadog",
-                                          "OpenTelemetry",
-                                          "Drift Detection"
-                                      ]
-                        },
-                        {
-                            "label":  "Foundations",
-                            "items":  [
-                                          "DSA",
-                                          "Compilers",
-                                          "Operating Systems",
-                                          "Computer Networks",
-                                          "Distributed Systems",
-                                          "Linear Algebra",
-                                          "Probability"
-                                      ]
-                        }
-                    ],
-    "jobs":  [
-                 {
-                     "id":  "toyota",
-                     "role":  "AI/ML Engineer",
-                     "company":  "Toyota Motor North America",
-                     "project":  "Enterprise AI Application Generation Portal",
-                     "period":  "Sept 2022 â€” Present",
-                     "location":  "Plano, TX",
-                     "points":  [
-                                    "Architect \u0026 ship an AI portal that turns natural-language prompts into full-stack production web apps.",
-                                    "Built end-to-end prompt-to-deploy pipeline using OpenClaw / NemoClaw multi-agent frameworks (in-house).",
-                                    "Orchestrated GPT-4o, Claude 3 Opus / 3.5 Sonnet, Gemini 1.5 Pro, LLaMA 3 70B, Mistral for design + codegen + review.",
-                                    "Generated React / Next.js / Tailwind frontends + FastAPI / Flask / Node.js backends from spec automatically.",
-                                    "Hybrid RAG (FAISS + Pinecone + BM25, SBERT/E5/BGE re-ranking) over enterprise knowledge for grounded codegen.",
-                                    "Secure multi-tenant sandbox execution, automated PyTest/Jest test generation, CI/CD on Docker + EKS + Helm.",
-                                    "Self-healing AI debug loops â€” agents iteratively analyze, patch, and re-test failing code.",
-                                    "Hardened the platform against prompt-injection, tool-abuse, and data-exfil â€” OWASP-grade controls + LLM red-teaming.",
-                                    "Cut enterprise app dev cycle ~70â€“85% (weeks â†’ minutes for working prototypes)."
-                                ]
-                 },
-                 {
-                     "id":  "honda-ml",
-                     "role":  "Machine Learning Engineer",
-                     "company":  "Honda Â· via Cognizant Technology Solutions",
-                     "project":  "Manufacturing \u0026 Connected-Vehicle ML Platform",
-                     "period":  "June 2020 â€” Sept 2021",
-                     "location":  "Chennai, IN",
-                     "points":  [
-                                    "Production ML for Honda manufacturing analytics, connected-vehicle telemetry, and quality risk scoring.",
-                                    "Trained XGBoost, LightGBM, Random Forest, and BERT-based classifiers on plant + telemetry data.",
-                                    "Built MLOps on MLflow, Airflow, SageMaker â€” model versioning + blue-green deployment.",
-                                    "Engineered features on PySpark / AWS EMR over multi-TB vehicle + sensor histories.",
-                                    "Real-time inference via FastAPI + Redis cache â€” consistent sub-100ms p95 latency.",
-                                    "Drift detection (Prometheus + Grafana) with automated retraining triggers.",
-                                    "Partnered with security + compliance on PII handling, fairness audits, and model governance."
-                                ]
-                 },
-                 {
-                     "id":  "honda-trainee",
-                     "role":  "Data Analyst \u0026 Machine Learning Trainee",
-                     "company":  "Honda Â· via Cognizant Technology Solutions",
-                     "project":  "Data Analytics \u0026 Predictive Modeling",
-                     "period":  "Dec 2019 â€” May 2020",
-                     "location":  "Chennai, IN",
-                     "points":  [
-                                    "Built EDA + predictive modeling pipelines in Python (Pandas, NumPy, Scikit-learn, Matplotlib).",
-                                    "Trained classical ML models â€” logistic regression, decision trees, k-means, SVMs â€” on Honda operations data.",
-                                    "Wrote SQL + ETL scripts; built dashboards and reports for stakeholders.",
-                                    "Earned the AI bug while finishing B.Tech â€” wrote my first neural nets in raw NumPy before touching frameworks."
-                                ]
-                 }
-             ],
-    "projects":  [
-                     {
-                         "id":  "matchingdb",
-                         "name":  "MatchingDB",
-                         "url":  "https://matchingdb.com",
-                         "tag":  "PET PROJECT Â· NON-COMMERCIAL",
-                         "status":  "LIVE Â· PERSONAL USE",
-                         "period":  "2024 â€” Present",
-                         "tagline":  "A personal job-hunt + finance dashboard I built out of pure curiosity â€” live at matchingdb.com.",
-                         "why":  "Built for myself â€” no users, no revenue, no roadmap pressure. Just because I wanted it to exist.",
-                         "bullets":  [
-                                         "Automated job-posting ingestion â€” listings auto-flow into the app from public sources.",
-                                         "I use it daily to search and shortlist roles (contract + full-time) for myself.",
-                                         "Tracks my personal financial details alongside the job search â€” runway, expenses, offers.",
-                                         "AI matching: embedding-based candidateâ†”JD scoring with cross-encoder re-ranking.",
-                                         "Resume parsing (PDF/Docx â†’ structured profile) with skill normalization.",
-                                         "React + FastAPI + PostgreSQL + Redis + vector store, self-hosted."
-                                     ],
-                         "stack":  [
-                                       "React",
-                                       "FastAPI",
-                                       "PostgreSQL",
-                                       "Redis",
-                                       "pgvector",
-                                       "Python",
-                                       "Docker"
-                                   ]
-                     },
-                     {
-                         "id":  "mahi-app",
-                         "name":  "Mahi\u0027s app â€” Portfolio (this webapp)",
-                         "url":  "",
-                         "tag":  "PET PROJECT Â· NON-COMMERCIAL",
-                         "status":  "LIVE Â· YOU ARE HERE",
-                         "period":  "2026 â€” Present",
-                         "tagline":  "The site you are looking at right now â€” a developer-terminal themed portfolio + REPL.",
-                         "why":  "Wanted a portfolio that feels like a system, not a resume page. Built it for fun.",
-                         "bullets":  [
-                                         "Boot animation â†’ â€œprofile lookupâ€ â†’ dossier panel with live data.",
-                                         "Command-line interface with history, tab-complete, aliases, and 14+ commands.",
-                                         "Live GitHub feed â€” fetches repos, renders README HTML, browses files inline (no redirects).",
-                                         "Tripwire layer â€” detects copy/right-click/devtools and flashes a security banner.",
-                                         "F1â€“F7 hotbar, full keyboard navigation, no external tracking.",
-                                         "React + Vite, zero backend â€” fully static, GitHub APIs on demand, data hot-loaded from a public GitHub repo."
-                                     ],
-                         "stack":  [
-                                       "React",
-                                       "Vite",
-                                       "CSS Grid",
-                                       "GitHub REST API",
-                                       "No backend"
-                                   ]
-                     }
-                 ],
-    "education":  [
-                      {
-                          "school":  "M.S. in Computer Science",
-                          "institute":  "Wichita State University, Wichita, Kansas",
-                          "period":  "Aug 2021 â€” May 2023",
-                          "focus":  "Focus: Machine Learning, Deep Learning, Distributed Systems, Algorithms."
-                      },
-                      {
-                          "school":  "B.Tech in Information Technology",
-                          "institute":  "Anna University, Chennai, India",
-                          "period":  "Aug 2016 â€” May 2020",
-                          "focus":  "Coursework: Data Structures, OS, Compilers, Networks, DBMS, Cybersecurity."
-                      }
-                  ],
-    "achievements":  [
-                         "Cut enterprise app dev cycle ~70â€“85% via LLM-driven multi-agent codegen pipeline (Toyota).",
-                         "Architected in-house OpenClaw / NemoClaw multi-agent framework powering prompt-to-deploy automation.",
-                         "Shipped sub-100ms p95 real-time ML scoring at production scale for Honda (via Cognizant).",
-                         "Built secure multi-tenant sandbox + self-healing AI debug loops hardened against prompt-injection.",
-                         "Designed hybrid BM25 + dense RAG (SBERT/E5/BGE) with cross-encoder re-ranking for grounded code synthesis.",
-                         "Built MatchingDB (personal pet project) â€” automated job ingestion + finance tracker, used daily by me.",
-                         "Wrote neural nets from scratch in NumPy before touching frameworks â€” no black boxes, just math.",
-                         "Full-stack delivery: own the system from React UI to FastAPI backend to Spark pipeline to K8s deploy."
-                     ],
-    "currentLearning":  [
-                            "Reinforcement learning for agentic tool-use (DPO, GRPO, RLAIF, PPO).",
-                            "Graph-RAG + long-context retrieval over enterprise knowledge graphs.",
-                            "On-device / edge LLM deployment (quantization, vLLM, llama.cpp, GGUF).",
-                            "Multimodal agents â€” vision + voice + tool orchestration end-to-end.",
-                            "LLM evaluation, red-teaming \u0026 guardrails (LangSmith, Ragas, Promptfoo, Garak).",
-                            "Rust for high-perf ML serving + systems programming."
-                        ],
-    "photos":  [
-                   {
-                       "src":  "https://raw.githubusercontent.com/shakthimaharaja/MyDetails/main/photos/photo1.jpg",
-                       "alt":  "Maharaja â€” Frame 01"
-                   },
-                   {
-                       "src":  "https://raw.githubusercontent.com/shakthimaharaja/MyDetails/main/photos/photo2.jpg",
-                       "alt":  "Maharaja â€” Frame 02"
-                   },
-                   {
-                       "src":  "https://raw.githubusercontent.com/shakthimaharaja/MyDetails/main/photos/photo3.jpg",
-                       "alt":  "Maharaja â€” Frame 03"
-                   }
-               ],
-    "resume":  {
-                   "contact":  {
-                                   "personalWebsite":  ""
-                               }
-               }
+  "$schema": "mahi-bios-data v1",
+  "profile": {
+    "name": "MAHARAJA SIVASUBRAMANIAN",
+    "shortName": "MAHARAJA",
+    "alias": "shakthimaharaja",
+    "title": "AI/ML ENGINEER Â· FULL-STACK Â· DATA + SECURITY",
+    "tagline": "Builds with AI. Builds without AI. Either way â€” it ships.",
+    "location": "Plano, TX 75024",
+    "status": "OPEN TO FULL-TIME ROLES",
+    "role": "AI/ML ENGINEER @ TOYOTA",
+    "subjectId": "AI/ML ENGINEER @ TOYOTA",
+    "classification": "STAFF-LEVEL Â· FULL-STACK AI",
+    "dob": "NDA",
+    "height": "5\u002710\"",
+    "build": "ATHLETIC",
+    "lastSeen": "PLANO, TX METROPOLITAN AREA",
+    "threatLevel": "NONE â€” SHIP-MODE"
+  },
+  "details": {
+    "email": "maharajasiva.1210@gmail.com",
+    "github": "github.com/shakthimaharaja",
+    "githubUser": "shakthimaharaja",
+    "githubUrl": "https://github.com/shakthimaharaja",
+    "linkedin": "linkedin.com/in/maharajasiva",
+    "linkedinUrl": "https://www.linkedin.com/in/maharajasiva/",
+    "location": "Plano, TX 75024 Â· open to relocate",
+    "authorization": "US â€” authorized to work",
+    "years": "6+",
+    "domains": "Automotive Â· FinTech Â· Enterprise SaaS Â· Cybersecurity Â· Job-Tech",
+    "seeking": "Full-time: AI/ML Engineer Â· LLM/Agentic Systems Â· Senior ML / Full-Stack AI",
+    "side": "MatchingDB Â· this portfolio webapp â€” personal projects, built for curiosity"
+  },
+  "summary": [
+    "AI/ML Engineer who ships â€” full-stack, ML, data eng, and security in one stack.",
+    "Builds production agentic LLM systems and classical ML pipelines end-to-end, from scratch.",
+    "Models in prod: GPT-4o Â· Claude 3/3.5 Â· Gemini 1.5 Pro Â· LLaMA 3 Â· Mistral Â· embeddings.",
+    "Stack: React/Next.js, FastAPI/Node, PySpark/Airflow, AWS/GCP, K8s, OWASP-grade hardening.",
+    "Philosophy: invent without AI when needed, accelerate 10x with AI when possible â€” either way, production-grade."
+  ],
+  "skillGroups": [
+    {
+      "label": "AI / ML / LLM",
+      "items": [
+        "ML",
+        "Deep Learning",
+        "NLP",
+        "CV",
+        "LLMs",
+        "GenAI",
+        "Transformers",
+        "RAG",
+        "SFT/RLHF/DPO",
+        "Embeddings",
+        "Agentic AI"
+      ]
+    },
+    {
+      "label": "LLM Models",
+      "items": [
+        "GPT-4o",
+        "GPT-4 Turbo",
+        "Claude 3 Opus",
+        "Claude 3.5 Sonnet",
+        "Gemini 1.5 Pro",
+        "LLaMA 3 (8B/70B)",
+        "Mistral",
+        "Mixtral",
+        "Phi-3",
+        "Qwen2"
+      ]
+    },
+    {
+      "label": "ML Models",
+      "items": [
+        "XGBoost",
+        "LightGBM",
+        "Random Forest",
+        "GBMs",
+        "BERT/RoBERTa",
+        "T5",
+        "ResNet",
+        "YOLO",
+        "LSTM",
+        "Isolation Forest"
+      ]
+    },
+    {
+      "label": "Frameworks",
+      "items": [
+        "PyTorch",
+        "TensorFlow",
+        "JAX",
+        "Scikit-learn",
+        "HF Transformers",
+        "LangChain",
+        "LangGraph",
+        "LlamaIndex",
+        "DSPy",
+        "vLLM"
+      ]
+    },
+    {
+      "label": "Retrieval",
+      "items": [
+        "FAISS",
+        "Pinecone",
+        "Weaviate",
+        "pgvector",
+        "BM25 + Dense Hybrid",
+        "Cross-encoders",
+        "Re-ranking",
+        "Graph-RAG"
+      ]
+    },
+    {
+      "label": "Full-Stack",
+      "items": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Tailwind",
+        "Vite",
+        "Redux",
+        "FastAPI",
+        "Flask",
+        "Node.js",
+        "Express",
+        "GraphQL",
+        "REST"
+      ]
+    },
+    {
+      "label": "Data Engineering",
+      "items": [
+        "PySpark",
+        "Spark SQL",
+        "Airflow",
+        "Kafka",
+        "dbt",
+        "Snowflake",
+        "BigQuery",
+        "AWS EMR",
+        "Delta Lake",
+        "ETL/ELT"
+      ]
+    },
+    {
+      "label": "Databases",
+      "items": [
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "Redis",
+        "DynamoDB",
+        "Elasticsearch",
+        "Neo4j"
+      ]
+    },
+    {
+      "label": "Cloud / MLOps",
+      "items": [
+        "AWS (EKS/SageMaker/Lambda/S3)",
+        "GCP (Vertex/GKE)",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "Helm",
+        "Terraform",
+        "MLflow",
+        "Kubeflow",
+        "CI/CD"
+      ]
+    },
+    {
+      "label": "Cybersecurity",
+      "items": [
+        "OWASP Top 10",
+        "Threat Modeling",
+        "SAST/DAST",
+        "Burp Suite",
+        "Nmap",
+        "Wireshark",
+        "JWT/OAuth2",
+        "Zero-Trust",
+        "Prompt Injection Defense",
+        "LLM Red-Teaming"
+      ]
+    },
+    {
+      "label": "Languages",
+      "items": [
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "C++",
+        "Go",
+        "SQL",
+        "Bash",
+        "Rust (learning)"
+      ]
+    },
+    {
+      "label": "Monitoring",
+      "items": [
+        "Prometheus",
+        "Grafana",
+        "ELK",
+        "Datadog",
+        "OpenTelemetry",
+        "Drift Detection"
+      ]
+    },
+    {
+      "label": "Foundations",
+      "items": [
+        "DSA",
+        "Compilers",
+        "Operating Systems",
+        "Computer Networks",
+        "Distributed Systems",
+        "Linear Algebra",
+        "Probability"
+      ]
+    }
+  ],
+  "jobs": [
+    {
+      "id": "toyota",
+      "role": "AI/ML Engineer",
+      "company": "Toyota Motor North America",
+      "project": "Enterprise AI Application Generation Portal",
+      "period": "Sept 2022 â€” Present",
+      "location": "Plano, TX",
+      "points": [
+        "Architect \u0026 ship an AI portal that turns natural-language prompts into full-stack production web apps.",
+        "Built end-to-end prompt-to-deploy pipeline using OpenClaw / NemoClaw multi-agent frameworks (in-house).",
+        "Orchestrated GPT-4o, Claude 3 Opus / 3.5 Sonnet, Gemini 1.5 Pro, LLaMA 3 70B, Mistral for design + codegen + review.",
+        "Generated React / Next.js / Tailwind frontends + FastAPI / Flask / Node.js backends from spec automatically.",
+        "Hybrid RAG (FAISS + Pinecone + BM25, SBERT/E5/BGE re-ranking) over enterprise knowledge for grounded codegen.",
+        "Secure multi-tenant sandbox execution, automated PyTest/Jest test generation, CI/CD on Docker + EKS + Helm.",
+        "Self-healing AI debug loops â€” agents iteratively analyze, patch, and re-test failing code.",
+        "Hardened the platform against prompt-injection, tool-abuse, and data-exfil â€” OWASP-grade controls + LLM red-teaming.",
+        "Cut enterprise app dev cycle ~70â€“85% (weeks â†’ minutes for working prototypes)."
+      ]
+    },
+    {
+      "id": "honda-ml",
+      "role": "Machine Learning Engineer",
+      "company": "Honda Â· via Cognizant Technology Solutions",
+      "project": "Manufacturing \u0026 Connected-Vehicle ML Platform",
+      "period": "June 2020 â€” Sept 2021",
+      "location": "Chennai, IN",
+      "points": [
+        "Production ML for Honda manufacturing analytics, connected-vehicle telemetry, and quality risk scoring.",
+        "Trained XGBoost, LightGBM, Random Forest, and BERT-based classifiers on plant + telemetry data.",
+        "Built MLOps on MLflow, Airflow, SageMaker â€” model versioning + blue-green deployment.",
+        "Engineered features on PySpark / AWS EMR over multi-TB vehicle + sensor histories.",
+        "Real-time inference via FastAPI + Redis cache â€” consistent sub-100ms p95 latency.",
+        "Drift detection (Prometheus + Grafana) with automated retraining triggers.",
+        "Partnered with security + compliance on PII handling, fairness audits, and model governance."
+      ]
+    },
+    {
+      "id": "honda-trainee",
+      "role": "Data Analyst \u0026 Machine Learning Trainee",
+      "company": "Honda Â· via Cognizant Technology Solutions",
+      "project": "Data Analytics \u0026 Predictive Modeling",
+      "period": "Dec 2019 â€” May 2020",
+      "location": "Chennai, IN",
+      "points": [
+        "Built EDA + predictive modeling pipelines in Python (Pandas, NumPy, Scikit-learn, Matplotlib).",
+        "Trained classical ML models â€” logistic regression, decision trees, k-means, SVMs â€” on Honda operations data.",
+        "Wrote SQL + ETL scripts; built dashboards and reports for stakeholders.",
+        "Earned the AI bug while finishing B.Tech â€” wrote my first neural nets in raw NumPy before touching frameworks."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "matchingdb",
+      "name": "MatchingDB",
+      "url": "https://matchingdb.com",
+      "tag": "PET PROJECT Â· NON-COMMERCIAL",
+      "status": "LIVE Â· PERSONAL USE",
+      "period": "2024 â€” Present",
+      "tagline": "A personal job-hunt + finance dashboard I built out of pure curiosity â€” live at matchingdb.com.",
+      "why": "Built for myself â€” no users, no revenue, no roadmap pressure. Just because I wanted it to exist.",
+      "bullets": [
+        "Automated job-posting ingestion â€” listings auto-flow into the app from public sources.",
+        "I use it daily to search and shortlist roles (contract + full-time) for myself.",
+        "Tracks my personal financial details alongside the job search â€” runway, expenses, offers.",
+        "AI matching: embedding-based candidateâ†”JD scoring with cross-encoder re-ranking.",
+        "Resume parsing (PDF/Docx â†’ structured profile) with skill normalization.",
+        "React + FastAPI + PostgreSQL + Redis + vector store, self-hosted."
+      ],
+      "stack": [
+        "React",
+        "FastAPI",
+        "PostgreSQL",
+        "Redis",
+        "pgvector",
+        "Python",
+        "Docker"
+      ]
+    },
+    {
+      "id": "mahi-app",
+      "name": "Mahi\u0027s app â€” Portfolio (this webapp)",
+      "url": "",
+      "tag": "PET PROJECT Â· NON-COMMERCIAL",
+      "status": "LIVE Â· YOU ARE HERE",
+      "period": "2026 â€” Present",
+      "tagline": "The site you are looking at right now â€” a developer-terminal themed portfolio + REPL.",
+      "why": "Wanted a portfolio that feels like a system, not a resume page. Built it for fun.",
+      "bullets": [
+        "Boot animation â†’ â€œprofile lookupâ€ â†’ dossier panel with live data.",
+        "Command-line interface with history, tab-complete, aliases, and 14+ commands.",
+        "Live GitHub feed â€” fetches repos, renders README HTML, browses files inline (no redirects).",
+        "Tripwire layer â€” detects copy/right-click/devtools and flashes a security banner.",
+        "F1â€“F7 hotbar, full keyboard navigation, no external tracking.",
+        "React + Vite, zero backend â€” fully static, GitHub APIs on demand, data hot-loaded from a public GitHub repo."
+      ],
+      "stack": ["React", "Vite", "CSS Grid", "GitHub REST API", "No backend"]
+    }
+  ],
+  "education": [
+    {
+      "school": "M.S. in Computer Science",
+      "institute": "Wichita State University, Wichita, Kansas",
+      "period": "Aug 2021 â€” May 2023",
+      "focus": "Focus: Machine Learning, Deep Learning, Distributed Systems, Algorithms."
+    },
+    {
+      "school": "B.Tech in Information Technology",
+      "institute": "Anna University, Chennai, India",
+      "period": "Aug 2016 â€” May 2020",
+      "focus": "Coursework: Data Structures, OS, Compilers, Networks, DBMS, Cybersecurity."
+    }
+  ],
+  "achievements": [
+    "Cut enterprise app dev cycle ~70â€“85% via LLM-driven multi-agent codegen pipeline (Toyota).",
+    "Architected in-house OpenClaw / NemoClaw multi-agent framework powering prompt-to-deploy automation.",
+    "Shipped sub-100ms p95 real-time ML scoring at production scale for Honda (via Cognizant).",
+    "Built secure multi-tenant sandbox + self-healing AI debug loops hardened against prompt-injection.",
+    "Designed hybrid BM25 + dense RAG (SBERT/E5/BGE) with cross-encoder re-ranking for grounded code synthesis.",
+    "Built MatchingDB (personal pet project) â€” automated job ingestion + finance tracker, used daily by me.",
+    "Wrote neural nets from scratch in NumPy before touching frameworks â€” no black boxes, just math.",
+    "Full-stack delivery: own the system from React UI to FastAPI backend to Spark pipeline to K8s deploy."
+  ],
+  "currentLearning": [
+    "Reinforcement learning for agentic tool-use (DPO, GRPO, RLAIF, PPO).",
+    "Graph-RAG + long-context retrieval over enterprise knowledge graphs.",
+    "On-device / edge LLM deployment (quantization, vLLM, llama.cpp, GGUF).",
+    "Multimodal agents â€” vision + voice + tool orchestration end-to-end.",
+    "LLM evaluation, red-teaming \u0026 guardrails (LangSmith, Ragas, Promptfoo, Garak).",
+    "Rust for high-perf ML serving + systems programming."
+  ],
+  "photos": [
+    {
+      "src": "https://raw.githubusercontent.com/shakthimaharaja/MyDetails/main/photos/photo1.jpg",
+      "alt": "Maharaja â€” Frame 01"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/shakthimaharaja/MyDetails/main/photos/photo2.jpg",
+      "alt": "Maharaja â€” Frame 02"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/shakthimaharaja/MyDetails/main/photos/photo3.jpg",
+      "alt": "Maharaja â€” Frame 03"
+    }
+  ],
+  "resume": {
+    "contact": {
+      "personalWebsite": "https://maharajaterminal.com/"
+    }
+  }
 }
