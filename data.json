@@ -126,13 +126,13 @@
       "stack": ["React", "FastAPI", "PostgreSQL", "Redis", "pgvector", "Python", "Docker"]
     },
     {
-      "id": "m-bios",
-      "name": "M-BIOS Portfolio (this webapp)",
+      "id": "mahi-app",
+      "name": "Mahi's app — Portfolio (this webapp)",
       "url": "",
       "tag": "PET PROJECT · NON-COMMERCIAL",
       "status": "LIVE · YOU ARE HERE",
       "period": "2026 — Present",
-      "tagline": "The site you are looking at right now — a BIOS / developer-terminal themed portfolio + REPL.",
+      "tagline": "The site you are looking at right now — a developer-terminal themed portfolio + REPL.",
       "why": "Wanted a portfolio that feels like a system, not a resume page. Built it for fun.",
       "bullets": [
         "Boot animation → “profile lookup” → dossier panel with live data.",
