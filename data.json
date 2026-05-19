@@ -178,8 +178,8 @@
     "Rust for high-perf ML serving + systems programming."
   ],
   "photos": [
-    { "src": "/photos/photo1.jpg", "alt": "Maharaja — Frame 01" },
-    { "src": "/photos/photo2.jpg", "alt": "Maharaja — Frame 02" },
-    { "src": "/photos/photo3.jpg", "alt": "Maharaja — Frame 03" }
+    { "src": "https://raw.githubusercontent.com/shakthimaharaja/MyDetails/main/photos/photo1.jpg", "alt": "Maharaja — Frame 01" },
+    { "src": "https://raw.githubusercontent.com/shakthimaharaja/MyDetails/main/photos/photo2.jpg", "alt": "Maharaja — Frame 02" },
+    { "src": "https://raw.githubusercontent.com/shakthimaharaja/MyDetails/main/photos/photo3.jpg", "alt": "Maharaja — Frame 03" }
   ]
 }
