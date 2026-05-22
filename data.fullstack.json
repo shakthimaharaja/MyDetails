@@ -29,7 +29,7 @@
     "websiteUrl": "https://www.matchingdb.com/",
     "location": "Plano, TX 75024 · open to relocate",
     "authorization": "US — authorized to work",
-    "years": "9+",
+    "years": "6+",
     "domains": "Automotive · Enterprise SaaS · FinTech · Job-Tech",
     "seeking": "Full-time: Full Stack Engineer · Senior Web Platform / Node + React Engineer",
     "side": "MatchingDB · this portfolio webapp — personal projects, built for curiosity"
@@ -218,7 +218,11 @@
         "Implemented resilience patterns — circuit breakers, retries, timeouts, fallback APIs — cutting incident MTTR by 45% and preventing cascading failures during peak sales.",
         "Built CI/CD pipelines for Node.js services with Jenkins + Kubernetes + canary deploys on GKE, reducing deployment rollback time by 70%.",
         "Developed and shipped React UI components in JavaScript/TypeScript, integrating REST and GraphQL backends to deliver high-performance user workflows.",
-        "Partnered with security + platform teams on OAuth2 and Google Cloud API Gateway / Apigee rate limiting to keep transaction flows PCI-DSS compliant and secure."
+        "Partnered with security + platform teams on OAuth2 and Google Cloud API Gateway / Apigee rate limiting to keep transaction flows PCI-DSS compliant and secure.",
+        "Defined SLO targets and built observability dashboards in Prometheus + Grafana to track error budgets and monitor Checkout API health — proactively catching degradation before customer impact.",
+        "Led frontend code reviews and contributed to component library standards for checkout-adjacent React components, enforcing TypeScript type safety and cross-platform consistency across web and mobile surfaces.",
+        "Coordinated cross-team API design sessions and authored technical specs reviewed by platform, security, and product teams — ensuring new feature delivery aligned with PCI-DSS compliance and GCP architecture guidelines.",
+        "Owned post-launch monitoring and incident runbooks for Checkout services — participated in on-call rotations, triaged P0/P1 incidents, and drove root-cause analysis to prevent recurrence."
       ]
     },
     {
@@ -233,7 +237,11 @@
         "Ran A/B testing experiments using Terraform / Cloud Deployment Manager and internal experimentation frameworks; identified a model variant that drove a 12% improvement in personalized credit-card offer adoption.",
         "Integrated PyTorch models into Node.js + Express backends deployed on Google Cloud Vertex AI and Cloud Run / GKE to power dynamic product and rewards recommendations — 92% prediction accuracy on customer-intent classification.",
         "Built React + Next.js frontends backed by GraphQL APIs, delivering responsive, personalized experiences for connected-car and dealer-facing workflows.",
-        "Owned end-to-end delivery: feature design, API contracts, frontend integration, deployment on GCP, and post-launch monitoring."
+        "Owned end-to-end delivery: feature design, API contracts, frontend integration, deployment on GCP, and post-launch monitoring.",
+        "Designed a feature-flag system for controlled rollout of updated recommendation models to targeted user cohorts — enabling risk-free production experiments with instant rollback capability.",
+        "Set up Cloud Monitoring and Stackdriver alerts for the recommendation pipeline — tracking model prediction latency, cache hit rates, and SLO compliance across staging and production.",
+        "Authored API contracts and technical design documents reviewed by data science, backend, and frontend teams — establishing shared event schemas and service integration patterns adopted across teams.",
+        "Refactored GraphQL resolver layer to use DataLoader batching — eliminated N+1 query patterns on the recommendation service, reducing database round-trips by 70% under high fan-out reads."
       ]
     },
     {
@@ -248,7 +256,11 @@
         "Integrated the rewards platform with payments using the saga pattern, ensuring transactional consistency between financial settlements and reward credits and reducing customer-impacting reconciliation issues by 70%.",
         "Developed React-based internal dashboards for finance and compliance teams to monitor balances, reward inventory, and anomalies in real time — improving audit-prep time by 60% through transparent, drill-down UIs.",
         "Wrote unit and integration tests for React apps with Jest + React Testing Library, raising UI reliability and confidence in production releases.",
-        "Defined system SLOs and built an observability stack on Grafana + Prometheus with custom alerts and on-call runbooks, cutting incident MTTR from hours to minutes."
+        "Defined system SLOs and built an observability stack on Grafana + Prometheus with custom alerts and on-call runbooks, cutting incident MTTR from hours to minutes.",
+        "Participated in high-concurrency load testing and chaos engineering exercises to validate redemption system resilience — identified and resolved race conditions before major campaign launches.",
+        "Contributed to internal engineering wiki — documenting Kafka consumer retry patterns, DynamoDB hot-key mitigation strategies, and Redis Lua scripting patterns adopted by the wider backend team.",
+        "Collaborated with QA, compliance, and finance teams on audit preparation — built transaction drill-down views and automated reconciliation reports that reduced manual review cycles by 40%.",
+        "Worked closely with product managers to translate business rules for reward tiers and expiry logic into reliable backend services with full test coverage and regression suites."
       ]
     }
   ],
