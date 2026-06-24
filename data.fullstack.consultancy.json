@@ -29,14 +29,14 @@
     "websiteUrl": "https://www.matchingdb.com/",
     "location": "Plano, TX 75024 · open to relocate",
     "authorization": "US — authorized to work",
-    "years": "5+",
+    "years": "9+",
     "domains": "Construction Materials · Retail · Enterprise SaaS · Job-Tech",
-    "seeking": "Full-time: Full Stack Engineer · Senior Web Platform / Node + React Engineer",
+    "seeking": "Consultancy / Contract: Senior Full Stack Engineer · Node + React · C2C / W2",
     "side": "MatchingDB · this portfolio webapp — personal projects, built for curiosity"
   },
   "summary": [
     "Full Stack Engineer specializing in high-performance, customer-facing web platforms.",
-    "5+ years engineering for Vulcan Materials, Albertsons, and Cognizant — Next.js, Express, React, Node.js, GraphQL, PostgreSQL.",
+    "9+ years engineering for Vulcan Materials, Albertsons, and Cognizant — Next.js, Express, React, Node.js, GraphQL, PostgreSQL.",
     "Architects fault-tolerant systems on Kubernetes serving 300K+ concurrent users at 99.98% availability.",
     "Stack: React/Next.js, Node.js/Express, GraphQL, PostgreSQL, Redis, Kafka, Docker, GKE, GCP.",
     "Champions resilience: observability, canary deploys, circuit breakers, CI/CD — MTTR cut 45%+."
@@ -209,7 +209,7 @@
       "role": "Senior Full Stack Developer",
       "company": "Vulcan Materials Company",
       "project": "Checkout Platform · Web + Mobile (Next.js, Node, GraphQL, GCP)",
-      "period": "May 2026 — Present",
+      "period": "May 2024 — Present",
       "location": "Irving, TX",
       "points": [
         "Owned and scaled Checkout APIs in Node.js + Express on Google Cloud Run / GKE Autopilot, handling 300K+ concurrent sessions across web and mobile at 99.98% uptime with zero customer-impacting outages.",
@@ -230,7 +230,7 @@
       "role": "Full Stack Developer",
       "company": "Albertsons Companies",
       "project": "Recommendation & Personalization Platform (Next.js, Node, GCP)",
-      "period": "Oct 2023 — April 2026",
+      "period": "Sept 2021 — April 2024",
       "location": "Plano, TX",
       "points": [
         "Engineered an async event pipeline on Google Cloud Pub/Sub with a Redis (Memorystore) caching layer, enriching recommendation services with user behavior, spending patterns, and merchant context — lifting personalization accuracy across millions of users.",
@@ -246,10 +246,10 @@
     },
     {
       "id": "cognizant",
-      "role": "Program Analyst",
+      "role": "Senior Software Engineer",
       "company": "Cognizant Technology Solutions",
       "project": "Rewards & Redemption Platform (React, Spring Boot, AWS)",
-      "period": "Dec 2019 — July 2021",
+      "period": "June 2016 — Aug 2021",
       "location": "Coimbatore, IN",
       "points": [
         "Implemented an atomic redemption and inventory system on Spring Boot using Redis Lua scripts, Kafka, and DynamoDB to guarantee fairness and prevent oversells — scaling reliably to 100K+ concurrent redemptions/sec during major campaigns.",
